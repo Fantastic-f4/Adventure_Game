@@ -1,3 +1,9 @@
+import time
+import sys
+
+time1 = 2
+time2 = 0.2
+time3 = 0.08
 
 # Search cell for useful object
 def option2():
@@ -35,21 +41,32 @@ def option1():
 ### Players first decison : game starts here
 def intro():
     print("You wake up on a cold stone floor.")
+    time.sleep(time1)
     print("Moonlight creeping through an iron barred window reveals skeletons chained to the walls.")
+    time.sleep(time1)
     print(" The room is small and round with one arched door.")
+    time.sleep(time1)
     print("You hear a voice fill the room")
+    time.sleep(time1)
     print("In fear you reply")
+    time.sleep(time1)
     name = input("What is your name: ")
+    time.sleep(time1)
     print()
     print()
     print(name + "! HOPE YOU SLEPT WELL!!!!!")
+    time.sleep(time1)
     print("     ######################")
     print("     |                    |")
     print("     |     HAHAHAHAHA     |")
+    time.sleep(time3)
     print("     |     HAHAHAHAHA     |")
+    time.sleep(time3)
     print("     |     HAHAHAHAHA     |")
+    time.sleep(time3)
     print("     |                    |")
     print("     ######################")
+
     startgame = input("Would you like to start the game? (Y?N): ")
     if startgame == "n" or startgame == "N":
         print ("Maybe some other time. Bye for now...")
