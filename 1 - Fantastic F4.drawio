@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T11:50:42.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="QivSr8M8vQvdr5CzJ1PW" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T15:36:14.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="GzCGCDg5Xy7ul6UVjvn6" version="14.2.9" type="github">
   <diagram id="AGkp3YgMyCRiQ7xAGxLQ" name="Page-1">
-    <mxGraphModel dx="1222" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="820" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,10 +191,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mVKKj_rzwkYYP3pHzG7V-75" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="414" y="505" width="132" height="180" as="geometry" />
+          <mxGeometry x="434" y="505" width="132" height="180" as="geometry" />
         </mxCell>
         <mxCell id="mVKKj_rzwkYYP3pHzG7V-76" value="Open door slowly (S-5, D+2) you see a young woman walk past the door slightly alerted to the creak of the door, you wait for women to pass and enter the room&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="435" y="535" width="90" height="120" as="geometry" />
+          <mxGeometry x="457" y="535" width="90" height="120" as="geometry" />
         </mxCell>
         <mxCell id="mVKKj_rzwkYYP3pHzG7V-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.46;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-81" target="mVKKj_rzwkYYP3pHzG7V-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -218,7 +218,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mVKKj_rzwkYYP3pHzG7V-87" value="Explore Room (S-5)&lt;br&gt;Find Magic Black Orb" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="204" y="700" width="149" height="80" as="geometry" />
+          <mxGeometry x="234" y="680" width="149" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mVKKj_rzwkYYP3pHzG7V-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-92" target="mVKKj_rzwkYYP3pHzG7V-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -230,16 +230,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mVKKj_rzwkYYP3pHzG7V-92" value="take orb/ leave orb" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="357" y="800" width="80" height="80" as="geometry" />
+          <mxGeometry x="393" y="728.75" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mVKKj_rzwkYYP3pHzG7V-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-93" target="mVKKj_rzwkYYP3pHzG7V-105" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mVKKj_rzwkYYP3pHzG7V-93" value="Take Orb and gain chance to teleport to escape (H = 1, D + 10)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;" parent="1" vertex="1">
-          <mxGeometry x="490" y="791.25" width="120" height="97.5" as="geometry" />
+          <mxGeometry x="521" y="720" width="120" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.02;entryY=0.558;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mVKKj_rzwkYYP3pHzG7V-94" target="mVKKj_rzwkYYP3pHzG7V-81">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mVKKj_rzwkYYP3pHzG7V-94" value="Leave orb" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="425" y="720" width="100" height="50" as="geometry" />
+          <mxGeometry x="250" y="830" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mVKKj_rzwkYYP3pHzG7V-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-101" target="mVKKj_rzwkYYP3pHzG7V-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
