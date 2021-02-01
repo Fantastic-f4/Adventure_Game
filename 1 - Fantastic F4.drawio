@@ -1,1 +1,393 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T16:27:09.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="lLJnh6QKV-5554r72abD" version="14.2.7" type="device"><diagram id="AGkp3YgMyCRiQ7xAGxLQ" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-01T11:25:13.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="xhDgL0h9NjPp6hqhxxnI" version="14.2.9" type="github">
+  <diagram id="AGkp3YgMyCRiQ7xAGxLQ" name="Page-1">
+    <mxGraphModel dx="1222" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.778;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-67" target="mVKKj_rzwkYYP3pHzG7V-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-67" target="mVKKj_rzwkYYP3pHzG7V-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-67" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="602.38" y="525" width="115.25" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="79" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="641" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-25" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="364" y="240" width="109" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="mVKKj_rzwkYYP3pHzG7V-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="363" y="980" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="mVKKj_rzwkYYP3pHzG7V-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="473" y="980" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-9" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="363" y="930" width="110" height="100" as="geometry" />
+        </mxCell>
+        <object label="" id="mVKKj_rzwkYYP3pHzG7V-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="314" y="30" width="200" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="mVKKj_rzwkYYP3pHzG7V-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419" y="70" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="419" y="60" />
+              <mxPoint x="419" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-2" value="Start Game" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="399" y="35" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-3" target="mVKKj_rzwkYYP3pHzG7V-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-3" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="359" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-6" value="Enter Name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="399" y="120" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-6" target="mVKKj_rzwkYYP3pHzG7V-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-4" value="Choose a&amp;nbsp; Door" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="402" y="950" width="32" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-11" target="mVKKj_rzwkYYP3pHzG7V-110" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="79" y="990" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="639" y="990" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mVKKj_rzwkYYP3pHzG7V-13" target="mVKKj_rzwkYYP3pHzG7V-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-13" value="Red Door : Vampire Room Feasting on captured humans (men and women)&amp;nbsp;&lt;br&gt;they all turn to you and you join the feast (S=5, D+20) hear the screams of a young woman&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="86" y="1040" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-14" target="mVKKj_rzwkYYP3pHzG7V-114" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-14" target="mVKKj_rzwkYYP3pHzG7V-119" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-14" value="Blue Door: Meet a friendly character ghost gives directions to food &amp;amp; weapons or to the exit. (S-5)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="641" y="990" width="119" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-22" target="mVKKj_rzwkYYP3pHzG7V-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-22" value="Option 1 force cell door (S-10)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="104" y="160" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-23" target="mVKKj_rzwkYYP3pHzG7V-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-23" target="mVKKj_rzwkYYP3pHzG7V-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-23" value="Option 2 Search cell for useful objects (S-5)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="661" y="160" width="81" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-18" target="mVKKj_rzwkYYP3pHzG7V-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-18" target="mVKKj_rzwkYYP3pHzG7V-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.102;entryY=1.09;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-18" target="mVKKj_rzwkYYP3pHzG7V-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-18" value="Escape Prison Tower" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="383" y="245" width="71" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-31" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-32" target="mVKKj_rzwkYYP3pHzG7V-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-32" value="Find a nail to pick lock (S-5)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="699" y="320" width="82" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-34" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="325" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-35" value="Pull loose stone from wall (D+1, &lt;br&gt;S-10) give info to player (in a high tower)&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="431" y="350" width="116" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.56;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-36" target="mVKKj_rzwkYYP3pHzG7V-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-36" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="44" y="320" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-37" value="Hear monster call, (D+5) (something heard you...)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="69" y="330" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-42" value="Player Name:&lt;br&gt;Health = 70/100&lt;br&gt;Stamina = 60/100&lt;br&gt;Detection = 0/20" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-44" value="Option 3 Go back to sleep = (S+20) (loop 1 time only)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.506;entryY=0.238;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-56" target="mVKKj_rzwkYYP3pHzG7V-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-56" value="Open Cell door&amp;nbsp;&lt;br&gt;and follow stair case down reach a door.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="599" y="430" width="121" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-59" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="44" y="425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-60" value="if D = 20: Game over" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="44" y="425" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-63" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="630" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.579;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-66" target="mVKKj_rzwkYYP3pHzG7V-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-66" value="Open door forcefully ( S-5, D+20) women turns into vampire and kills you&amp;nbsp; &amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="699" y="630" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-65" value="Open door slowly/forcefully" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="617.25" y="505" width="84.5" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-72" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-73" value="if D= 20: Game over" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="780" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-75" target="mVKKj_rzwkYYP3pHzG7V-81" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-75" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="505" width="132" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-76" value="Open door slowly (S-5, D+2) you see a young woman walk past the door slightly alerted to the creak of the door, you wait for women to pass and enter the room&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="435" y="535" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.46;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-81" target="mVKKj_rzwkYYP3pHzG7V-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-81" target="mVKKj_rzwkYYP3pHzG7V-87" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-81" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="226" y="450" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-83" value="Follow woman or Explore the room" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="262" y="477.5" width="64" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-86" target="mVKKj_rzwkYYP3pHzG7V-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-86" value="Sneakily Follow Woman (S-20),&amp;nbsp;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=19;" parent="1" vertex="1">
+          <mxGeometry x="41" y="560" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-87" target="mVKKj_rzwkYYP3pHzG7V-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-87" value="Explore Room (S-5)&lt;br&gt;Find Magic Black Orb" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="204" y="700" width="149" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-92" target="mVKKj_rzwkYYP3pHzG7V-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-92" target="mVKKj_rzwkYYP3pHzG7V-94" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-92" target="mVKKj_rzwkYYP3pHzG7V-81" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-92" value="take orb/ leave orb" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="357" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-93" target="mVKKj_rzwkYYP3pHzG7V-105" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-93" value="Take Orb and gain chance to teleport to escape (H = 1, D + 10)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;" parent="1" vertex="1">
+          <mxGeometry x="490" y="791.25" width="120" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-94" value="Leave orb" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="720" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-101" target="mVKKj_rzwkYYP3pHzG7V-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-101" value="The woman turns a corner but when you reach it she is nowhere to be seen." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="54" y="750" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-105" value="You win (1 in 6 chance)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="684" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-109" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="81.5" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-110" value="if D= 20: Game over" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="81.5" y="1140" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-114" target="mVKKj_rzwkYYP3pHzG7V-116" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-114" value="Food &amp;amp;weapons / Exit" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1080" width="115" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.023;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mVKKj_rzwkYYP3pHzG7V-116" target="mVKKj_rzwkYYP3pHzG7V-109" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-116" value="Choose Exit (S-5) Ghost double crosses you for his own entertainment.&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="1079" width="150" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mVKKj_rzwkYYP3pHzG7V-119" target="aACTHdseWjAm7IjOx82R-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVKKj_rzwkYYP3pHzG7V-119" value="You are lead to a&amp;nbsp; chest with food and vampire killing weapons. (H+30, S+30)&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="589" y="1169" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-2" target="aACTHdseWjAm7IjOx82R-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-2" value="you learn the exit is beyond the red door, but you are warned that a monster or something will stop you." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="1240" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-4" target="aACTHdseWjAm7IjOx82R-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-4" target="aACTHdseWjAm7IjOx82R-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-4" value="sneak into the red room / rush into it&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="119" y="1240" width="121" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-6" value="sneaking = see woman on the floor over a lifeless body draining it of their blood.&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1400" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-7" target="aACTHdseWjAm7IjOx82R-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-7" value="rush = startles the woman, she transforms into a winged vampire and it attacks you .&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="226" y="1400" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-13" target="aACTHdseWjAm7IjOx82R-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-13" target="aACTHdseWjAm7IjOx82R-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-13" value="defend or attack the creature" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1390" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-14" target="aACTHdseWjAm7IjOx82R-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-14" value="You don&#39;t have time to block with your new shield and lose half health in the attack. the vampire flys in for another attack." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1390" width="144" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-17" target="aACTHdseWjAm7IjOx82R-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-17" value="option 2 - defend, parry her attack with your shield and run to the exit." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1520" width="129" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-18" value="option 1 - attack, lose half health again but cut of her wing so she&#39;s grounded and less of a threat" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="1520" width="125" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-21" target="aACTHdseWjAm7IjOx82R-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-21" target="aACTHdseWjAm7IjOx82R-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-21" value="go for exit / ready yourself for another attack" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="696" y="1653.5" width="104" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-23" target="aACTHdseWjAm7IjOx82R-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-23" value="go for the exit, the vampire attacks you and you die." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="688" y="1800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-25" value="Game over." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="684" y="1930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-27" target="aACTHdseWjAm7IjOx82R-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-27" value="ready for another attack the vamp tries to push you but you dodge thrust your sword through her heart. it pins her down but she not dead." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="479" y="1754" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.633;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-29" target="aACTHdseWjAm7IjOx82R-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-29" target="aACTHdseWjAm7IjOx82R-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-29" value="run/finish kill" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="511.5" y="1870" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="1990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-30" value="you see her flailing on the ground and use this as you chance to escape" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="564" y="2000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-35" value="finish the kill by pulling out your stake (heading the ghosts words) and pushing it through her chest. the vamp transforms to the human girl you saw before and begs you not to kill her..&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="1950" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-37" value="hesitate / finish kill" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="564" y="2100" width="106" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-38" value="" style="endArrow=classic;html=1;exitX=0.438;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="2140" as="sourcePoint" />
+            <mxPoint x="560" y="2150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-39" value="As you hestitate, the woman turns bacl into a vampire and latches onto your neck. You feel the life&amp;nbsp; drain out of you" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2210" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-41" value="Game over" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="427" y="2350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-42" value="You drive the stake far into the womans heart, she cries out as a human and takes her last breath" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="614" y="2210" width="146" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-44" value="You rush to the exit and leave the castle. YOU WIN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="2350" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
