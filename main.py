@@ -1,9 +1,11 @@
 import time
 import sys
+import random
 
-time1 = 2
-time2 = 0.2
-time3 = 0.08
+a = 2
+b = 0.2
+c = 0.08
+
 
 # Search cell for useful object
 def option2():
@@ -25,7 +27,36 @@ def option2():
         print("  After picking the lock, you slowly open the door and creep out of the dungeon.")
         print(" A long and winding staircase takes you to the bottom of the turret to another wooden arched door.")
         
-#option 1: force cell door
+    s1 = input ( "Run and barge the door (1)/Silently open the door and creep in (2)")
+# forcefully open the door
+        if s1 == 1:
+            print("The door forcefully opens, Woman turns into vampire and kills you")
+            option2()
+#slowly open the door
+        elif s1 == 2:
+            print("As you open the door, you see a beautiful woman walking down a corridor to the right")
+            print("You run and barge the door and run straight into another dark stone room. ")
+            print(" A woman in the distance turns round and as you blink, you hear a scream. ")
+            print("You feel warm liquid running down your neck and as you open your eyes, you see a horrible creature as you take you last breath.")
+            print("As you watch the woman walk down the corridor, she disappears.")
+            s2 = input("Sneak after the woman (1)/ Explore the room (2)")
+
+#sneak after the woman
+            if s2 == 1:
+                opt2_1()
+            if s2 == 2:
+                opt2_2()
+def opt2_1():
+    print ("You follow the corridor to where the woman disappeared and find two doors")
+    print("As you reach the end of the corridor you are faced with two giant doors,")
+    print("one of the doors stained red with blood, the other frozen ice white. ")
+
+# search the room
+def opt2_2():
+    print("Do you want to take the risk? Roll a 6 to teleport home  or leave the orb ")
+
+
+
 
 def option1():
     print("The screams get louder and closer")
@@ -41,17 +72,17 @@ def option1():
 ### Players first decison : game starts here
 def intro():
     print("You wake up on a cold stone floor.")
-    time.sleep(time1)
+    time.sleep(t1)
     print("Moonlight creeping through an iron barred window reveals skeletons chained to the walls.")
-    time.sleep(time1)
+    time.sleep(t1)
     print(" The room is small and round with one arched door.")
-    time.sleep(time1)
+    time.sleep(t1)
     print("You hear a voice fill the room")
-    time.sleep(time1)
+    time.sleep(t1)
     print("In fear you reply")
-    time.sleep(time1)
+    time.sleep(t1)
     name = input("What is your name: ")
-    time.sleep(time1)
+    time.sleep(t1)
     print()
     print()
     print(name + "! HOPE YOU SLEPT WELL!!!!!")
