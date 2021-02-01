@@ -26,27 +26,31 @@ def option2():
         print(" You struggle with the rusty lock but quickly and silently manage to disengage it. ")
         print("  After picking the lock, you slowly open the door and creep out of the dungeon.")
         print(" A long and winding staircase takes you to the bottom of the turret to another wooden arched door.")
-        
+        opt2_0()
+
+def opt2_0():
     s1 = input ( "Run and barge the door (1)/Silently open the door and creep in (2)")
 # forcefully open the door
-        if s1 == 1:
-            print("The door forcefully opens, Woman turns into vampire and kills you")
-            option2()
+    if s1 == "1":
+        print("The door forcefully opens, Woman turns into vampire and kills you")
+        option2()
 #slowly open the door
-        elif s1 == 2:
-            print("As you open the door, you see a beautiful woman walking down a corridor to the right")
-            print("You run and barge the door and run straight into another dark stone room. ")
-            print(" A woman in the distance turns round and as you blink, you hear a scream. ")
-            print("You feel warm liquid running down your neck and as you open your eyes, you see a horrible creature as you take you last breath.")
-            print("As you watch the woman walk down the corridor, she disappears.")
-            s2 = input("Sneak after the woman (1)/ Explore the room (2)")
-
+    elif s1 == "b":
+        print("As you open the door, you see a beautiful woman walking down a corridor to the right")
+        print("You run and barge the door and run straight into another dark stone room. ")
+        print(" A woman in the distance turns round and as you blink, you hear a scream. ")
+        print("You feel warm liquid running down your neck and as you open your eyes, you see a horrible creature as you take you last breath.")
+        print("As you watch the woman walk down the corridor, she disappears.")
+        
+        opt2_1()
 #sneak after the woman
-            if s2 == 1:
-                opt2_1()
-            if s2 == 2:
-                opt2_2()
+        
 def opt2_1():
+    s2 = input("Sneak after the woman (1)/ Explore the room (2)")
+    if s2 == 1:
+        opt2_1()
+    elif s2 == 2:
+        opt2_2()
     print ("You follow the corridor to where the woman disappeared and find two doors")
     print("As you reach the end of the corridor you are faced with two giant doors,")
     print("one of the doors stained red with blood, the other frozen ice white. ")
@@ -72,29 +76,29 @@ def option1():
 ### Players first decison : game starts here
 def intro():
     print("You wake up on a cold stone floor.")
-    time.sleep(t1)
+    time.sleep(a)
     print("Moonlight creeping through an iron barred window reveals skeletons chained to the walls.")
-    time.sleep(t1)
+    time.sleep(a)
     print(" The room is small and round with one arched door.")
-    time.sleep(t1)
+    time.sleep(a)
     print("You hear a voice fill the room")
-    time.sleep(t1)
+    time.sleep(a)
     print("In fear you reply")
-    time.sleep(t1)
+    time.sleep(a)
     name = input("What is your name: ")
-    time.sleep(t1)
+    time.sleep(a)
     print()
     print()
     print(name + "! HOPE YOU SLEPT WELL!!!!!")
-    time.sleep(time1)
+    time.sleep(a)
     print("     ######################")
     print("     |                    |")
     print("     |     HAHAHAHAHA     |")
-    time.sleep(time3)
+    time.sleep(c)
     print("     |     HAHAHAHAHA     |")
-    time.sleep(time3)
+    time.sleep(c)
     print("     |     HAHAHAHAHA     |")
-    time.sleep(time3)
+    time.sleep(c)
     print("     |                    |")
     print("     ######################")
 
