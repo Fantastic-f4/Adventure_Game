@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T11:25:13.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="xhDgL0h9NjPp6hqhxxnI" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T11:50:42.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="QivSr8M8vQvdr5CzJ1PW" version="14.2.9" type="github">
   <diagram id="AGkp3YgMyCRiQ7xAGxLQ" name="Page-1">
     <mxGraphModel dx="1222" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -289,6 +289,9 @@
         <mxCell id="aACTHdseWjAm7IjOx82R-4" value="sneak into the red room / rush into it&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="119" y="1240" width="121" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-6" target="aACTHdseWjAm7IjOx82R-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aACTHdseWjAm7IjOx82R-6" value="sneaking = see woman on the floor over a lifeless body draining it of their blood.&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="1400" width="120" height="120" as="geometry" />
         </mxCell>
@@ -318,6 +321,9 @@
         </mxCell>
         <mxCell id="aACTHdseWjAm7IjOx82R-17" value="option 2 - defend, parry her attack with your shield and run to the exit." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="1520" width="129" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-18" target="aACTHdseWjAm7IjOx82R-57">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aACTHdseWjAm7IjOx82R-18" value="option 1 - attack, lose half health again but cut of her wing so she&#39;s grounded and less of a threat" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="1520" width="125" height="100" as="geometry" />
@@ -363,29 +369,62 @@
         <mxCell id="aACTHdseWjAm7IjOx82R-30" value="you see her flailing on the ground and use this as you chance to escape" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="564" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-35" target="aACTHdseWjAm7IjOx82R-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aACTHdseWjAm7IjOx82R-35" value="finish the kill by pulling out your stake (heading the ghosts words) and pushing it through her chest. the vamp transforms to the human girl you saw before and begs you not to kill her..&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="366" y="1950" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-37" target="aACTHdseWjAm7IjOx82R-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-37" target="aACTHdseWjAm7IjOx82R-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aACTHdseWjAm7IjOx82R-37" value="hesitate / finish kill" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="564" y="2100" width="106" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="aACTHdseWjAm7IjOx82R-38" value="" style="endArrow=classic;html=1;exitX=0.438;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-35">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="2140" as="sourcePoint" />
-            <mxPoint x="560" y="2150" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="aACTHdseWjAm7IjOx82R-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-39" target="aACTHdseWjAm7IjOx82R-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aACTHdseWjAm7IjOx82R-39" value="As you hestitate, the woman turns bacl into a vampire and latches onto your neck. You feel the life&amp;nbsp; drain out of you" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="2210" width="170" height="100" as="geometry" />
+          <mxGeometry x="410" y="2230" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="aACTHdseWjAm7IjOx82R-41" value="Game over" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="427" y="2350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-42" target="aACTHdseWjAm7IjOx82R-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aACTHdseWjAm7IjOx82R-42" value="You drive the stake far into the womans heart, she cries out as a human and takes her last breath" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="614" y="2210" width="146" height="110" as="geometry" />
         </mxCell>
         <mxCell id="aACTHdseWjAm7IjOx82R-44" value="You rush to the exit and leave the castle. YOU WIN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="624" y="2350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-51" target="aACTHdseWjAm7IjOx82R-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-51" value="sneak to exit and escape or try to fight the monster" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="1560" width="112.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-53" target="aACTHdseWjAm7IjOx82R-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-53" value="sneak and the vampire sees you but you escape in time bolting the door behind you." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="42" y="1720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-55" value="escape and win&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="42" y="1850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aACTHdseWjAm7IjOx82R-57" target="aACTHdseWjAm7IjOx82R-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-57" value="Attack again, the vampire surprises you with her speed, rushes you and sinks her teeth into your neck&amp;nbsp;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="1563.25" width="120" height="113.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aACTHdseWjAm7IjOx82R-59" value="Game over." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1754" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
