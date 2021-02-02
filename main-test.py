@@ -82,7 +82,7 @@ def opt2_1_4():
 
         print("Congratulations you WIN\n")
     elif b == "2":
-        s5"You raise your sword to attack the woman but she hears the movement and notices you.\n She lets out a high pitched scream as she sprouts wings and flies toward you."
+        s5 = "You raise your sword to attack the woman but she hears the movement and notices you.\n She lets out a high pitched scream as she sprouts wings and flies toward you."
         for cht in s5:
             sys.stdout.write(cht)
             sys.stdout.flush()
@@ -98,7 +98,7 @@ def opt2_1_5(): #qst 10
             time.sleep(b)
         time.sleep(1.0)
 
-    print("Attack the creature (1) / Defend the attack (2)")
+    print("Attack the creature (1) / Defend the attack (2)"/n)
     b = "Attack the creature (1) / Defend the attack (2)")
     if b == "1":
         s2 = "With a mighty swing of the sword you manage to make contact and slash her wing.\n She lets out a scream more terrifying than before but is grounded and cannot fly"
@@ -108,23 +108,50 @@ def opt2_1_5(): #qst 10
             time.sleep(b)
         time.sleep(1.0)
         opt2_1_6(): #qst 11
-    elif b == "2":
-        print("Screaming wildly,\n the creature flies at you with incredible speed,\n you hold up your shield.\n She hits the shield with incredible force,\n knocking you to your knees but injuring her greatly.")
+    elif b == "2":              
+        s3 = "Screaming wildly,\n the creature flies at you with incredible speed,\n you hold up your shield.\n She hits the shield with incredible force,\n knocking you to your knees but injuring her greatly."
+        for cht in s3:
+            sys.stdout.write(cht)
+            sys.stdout.flush()
+            time.sleep(b)
+        time.sleep(1.0)
         opt2_1_7() #qst 12
 
 def opt2_1_6(): #qst 11
-    print("You run toward the grounded creature but see the exit at the other end of the room")
-    print("Do you Run for exit (1)/ Attack (2)")
+    s1 = "You run toward the grounded creature but see the exit at the other end of the room"
+    for cht in s1:
+            sys.stdout.write(cht)
+            sys.stdout.flush()
+            time.sleep(b)
+        time.sleep(1.0)
+
+    print("Do you Run for exit (1)/ Attack (2)\n")
     b = "Do you Run for exit (1)/ Attack (2)"
     if b == "1":
-        print("You run for the exit but the creature disappears from view.\n As you approach the door you feel cold hands on your face,\n you feel teeth sinking into your neck.\n The light fades as you take your last breath.\n")
+        s2= "You run for the exit but the creature disappears from view.\n As you approach the door you feel cold hands on your face,\n you feel teeth sinking into your neck.\n The light fades as you take your last breath.\n"
+        for cht in s2:
+            sys.stdout.write(cht)
+            sys.stdout.flush()
+            time.sleep(b)
+        time.sleep(1.0)
         GameOver()
+
     elif b == "2":
-        print("You run at the beast thrusting your sword wildly but the creature disappears from view.\n As you stand startled and confused,\n you feel cold hands entangle you.\n You feel teeth sinking into your neck.\n The light fades as you take your last breath.")
+        s3 = "You run at the beast thrusting your sword wildly but the creature disappears from view.\n As you stand startled and confused,\n you feel cold hands entangle you.\n You feel teeth sinking into your neck.\n The light fades as you take your last breath."
+        for cht in s3:
+            sys.stdout.write(cht)
+            sys.stdout.flush()
+            time.sleep(b)
+        time.sleep(1.0)
         GameOver()
     
 def opt2_1_7():
-    print("As the creature flies around in pain you decide whether to")
+    s1 = "As the creature flies around in pain you decide whether to"
+    for cht in s1:
+            sys.stdout.write(cht)
+            sys.stdout.flush()
+            time.sleep(b)
+        time.sleep(1.0)
     print("Run for the exit (1) / Ready yourself for another attack (2)")
 
     b = "Run for the exit (1) / Ready yourself for another attack (2)")
@@ -137,24 +164,56 @@ def opt2_1_7():
         opt2_1_8() #qst 13
     
 def opt2_1_8(): #qst 13
-    print("The creature is clearly injured, writhing around on the floor.")
-    print ("Do you Run for the exit (1)/ Finish the kill (2)")
+    s1 = "The creature is clearly injured, writhing around on the floor."
+    for cht in s1:
+            sys.stdout.write(cht)
+            sys.stdout.flush()
+            time.sleep(b)
+        time.sleep(1.0)
+        print()
+    print ("Do you Run for the exit (1)/ Finish the kill (2)\n")
+
     b = "Do you Run for the exit (1)/ Finish the kill (2)")
     if b == "1" :
-        print("You run at the beast thrusting your sword wildly but the creature disappears from view.\n As you stand startled and confused,\n you feel cold hands entangle you.\n You feel teeth sinking into your neck.\n The light fades as you take your last breath.")
+        s2 = "You run at the beast thrusting your sword wildly but the creature disappears from view.\n As you stand startled and confused,\n you feel cold hands entangle you.\n You feel teeth sinking into your neck.\n The light fades as you take your last breath."
+        for cht in s2:
+            sys.stdout.write(cht)
+            sys.stdout.flush()
+            time.sleep(b)
+        time.sleep(1.0)
+        print()
         GameOver()
     elif b == "2":
-        print("You approach the creature and drive the flag pole directly through the heart. \n The creature instantly regains form as a beautiful woman and begs for you to spare her life.")
+        s3 = "You approach the creature and drive the flag pole directly through the heart. \n The creature instantly regains form as a beautiful woman and begs for you to spare her life.")
+        for cht in s3:
+            sys.stdout.write(cht)
+            sys.stdout.flush()
+            time.sleep(b)
+        time.sleep(1.0)
+        print()
+
         print(" Do you Spare her life (1) / Finish the kill (2)")
         opt2_1_9() #qst 14
 
 def opt2_1_8(): # qst 14
     b = " Do you Spare her life (1) / Finish the kill (2)"
     if b == "1":
-        print ("As you turn for the exit, you hear the paranormal scream once more.\n The vampire is still alive and takes your life.")
+        s1 = "As you turn for the exit, you hear the paranormal scream once more.\n The vampire is still alive and takes your life."
+        for cht in s1:
+            sys.stdout.write(cht)
+            sys.stdout.flush()
+            time.sleep(b)
+        time.sleep(1.0)
+        print()
         GameOver():
     elif b == "2"
-        print("You remove the stake and drive it once more hard into the chest.\n The woman let out a human cry.\n Concerned she may return,\n you remove the head with one strike of the sword.\n You rush toward to exit and get out alive!! ")
+        s2 = "You remove the stake and drive it once more hard into the chest.\n The woman let out a human cry.\n Concerned she may return,\n you remove the head with one strike of the sword.\n You rush toward to exit and get out alive!! "
+        for cht in s2:
+            sys.stdout.write(cht)
+            sys.stdout.flush()
+            time.sleep(b)
+        time.sleep(1.0)
+        print()
         print ("YOU WIN")
 
 
