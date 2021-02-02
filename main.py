@@ -85,6 +85,29 @@ def opt2_1_2():
         print("As the ghost disappears he laughs and says “The exit is though the Red door” ")
         print("You make your way back to the Red door and plan your attack")
         print("Do I Sneak into the room (1) / Rush into the room (2)")
+        opt2_1_3()
+
+def opt2_1_3:
+    if "1" :
+        print ("You creep the door open slowly to reveal the woman crouching over a lifeless body,\n draining the blood to feed herself")
+        print("The woman doesn’t appear to have noticed you enter")
+        print("Sneak to the exit (1)/ Confront the woman (2)")
+        opt2_1_4()
+    elif "2":
+        print("You burst through the bloody door at speed and startle the woman from her feed .\n She rises into the air and reveals her scaly wings. \n With the blink of an eye she has flown thrown you across the room. \n You are injured but still alive")
+        print("The creatures flies to the centre of the room and lets out a cry once more")
+        print("Attack the creature (1) / Defend the attack (2)")
+
+        opt2_1_5() #question 10.
+
+#question 9
+def opt2_1_4:
+    print("With a deep breath and your back pressed hard against the wall,\n you slowly make you way to the exit. As you open the door the woman hears you,")
+    print(" instantly sprouting wings and screaming a high pitched wail. \n You quickly close the door behind you and pull across a big steal bolt. \n
+    print("You run as fast as you can down the hill away from the castle.\n With a deep breath and your back pressed hard against the wall, \n you slowly make you way to the exit. \n As you open the door the woman hears you, \n instantly sprouting wings and screaming a high pitched wail.\n  You quickly close the door behind you and pull across a big steal bolt. \n You run as fast as you can down the hill away from the castle.")
+    print("FINALLY YOU ARE OUT AND SAFE")
+    print("Congratulations you win")
+
 
 
 
