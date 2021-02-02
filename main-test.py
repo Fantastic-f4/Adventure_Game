@@ -52,21 +52,61 @@ def opt2_1():
 def opt2_1_4():
     b = "Sneak to the exit (1)/ Confront the woman (2)"
     if b == "1":
-        print("With a deep breath and your back pressed hard against the wall,\n you slowly make you way to the exit. As you open the door the woman hears you,")
-        print(" instantly sprouting wings and screaming a high pitched wail. \n You quickly close the door behind you and pull across a big steal bolt. \n
-        print("You run as fast as you can down the hill away from the castle.\n With a deep breath and your back pressed hard against the wall, \n you slowly make you way to the exit. \n As you open the door the woman hears you, \n instantly sprouting wings and screaming a high pitched wail.\n  You quickly close the door behind you and pull across a big steal bolt. \n You run as fast as you can down the hill away from the castle.")
-        print("FINALLY YOU ARE OUT AND SAFE")
-        print("Congratulations you WIN")
+        s1 = "With a deep breath and your back pressed hard against the wall,\n you slowly make you way to the exit. As you open the door the woman hears you,"
+        for cht in s1:
+            sys.stdout.write(cht)
+            sys.stdout.flush()
+            time.sleep(b)
+        time.sleep(1.0)
+
+        s2 = " instantly sprouting wings and screaming a high pitched wail. \n You quickly close the door behind you and pull across a big steal bolt. \n"
+        for cht in s2:
+            sys.stdout.write(cht)
+            sys.stdout.flush()
+            time.sleep(b)
+        time.sleep(1.0)
+
+        s3 = "You run as fast as you can down the hill away from the castle.\n With a deep breath and your back pressed hard against the wall, \n you slowly make you way to the exit. \n As you open the door the woman hears you, \n instantly sprouting wings and screaming a high pitched wail.\n  You quickly close the door behind you and pull across a big steal bolt. \n You run as fast as you can down the hill away from the castle."
+        for cht in s3:
+            sys.stdout.write(cht)
+            sys.stdout.flush()
+            time.sleep(b)
+        time.sleep(1.0)
+
+        s4 = "FINALLY YOU ARE OUT AND SAFE"
+        for cht in s4:
+            sys.stdout.write(cht)
+            sys.stdout.flush()
+            time.sleep(b)
+        time.sleep(1.0)
+
+        print("Congratulations you WIN\n")
     elif b == "2":
-        print("You raise your sword to attack the woman but she hears the movement and notices you.\n She lets out a high pitched scream as she sprouts wings and flies toward you.")
+        s5"You raise your sword to attack the woman but she hears the movement and notices you.\n She lets out a high pitched scream as she sprouts wings and flies toward you."
+        for cht in s5:
+            sys.stdout.write(cht)
+            sys.stdout.flush()
+            time.sleep(b)
+        time.sleep(1.0)
         opt2_1_5(): #qst 10
 
 def opt2_1_5(): #qst 10
-    print("The creatures flies to the centre of the room and lets out a cry once more")
+    s1 = "The creatures flies to the centre of the room and lets out a cry once more"
+    for cht in s1:
+            sys.stdout.write(cht)
+            sys.stdout.flush()
+            time.sleep(b)
+        time.sleep(1.0)
+
     print("Attack the creature (1) / Defend the attack (2)")
     b = "Attack the creature (1) / Defend the attack (2)")
     if b == "1":
-        print("With a mighty swing of the sword you manage to make contact and slash her wing.\n She lets out a scream more terrifying than before but is grounded and cannot fly")
+        s2 = "With a mighty swing of the sword you manage to make contact and slash her wing.\n She lets out a scream more terrifying than before but is grounded and cannot fly"
+        for cht in s2:
+            sys.stdout.write(cht)
+            sys.stdout.flush()
+            time.sleep(b)
+        time.sleep(1.0)
         opt2_1_6(): #qst 11
     elif b == "2":
         print("Screaming wildly,\n the creature flies at you with incredible speed,\n you hold up your shield.\n She hits the shield with incredible force,\n knocking you to your knees but injuring her greatly.")
